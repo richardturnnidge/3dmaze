@@ -7,7 +7,7 @@ It is all fake 3d created with flat graphics.
 Move around the maze with Left, Right and Up arrows.
 Collect as many coins as you can before finding the exit.
 
-No timers of energy running out, just find the wa out.
+No timers or energy running out, just find the way out.
 
 No, there is not a monster!
 
