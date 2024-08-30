@@ -9,8 +9,8 @@ Collect as many coins as you can before finding the exit.
 
 No timers of energy running out, just find the wa out.
 
-
 No, there is not a monster!
+
 ![](./Screenshot%202024-08-30%20at%2018.05.41.png)
 ![](./Screenshot%202024-08-30%20at%2018.06.13.png)
 
