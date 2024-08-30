@@ -12,4 +12,4 @@ No timers of energy running out, just find the wa out.
 
 No, there is not a monster!
 
-![](./images/iopinsAL1.png)
+![](./Screenshot%202024-08-30%20at%2018.06.13.png)
