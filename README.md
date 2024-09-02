@@ -15,3 +15,7 @@ No, there is not a monster!
 ![](./Screenshot%202024-08-30%20at%2018.06.13.png)
 
 
+v0.51
+Added high score when escaped.
+Clear bug which left previous position on mini map after a game.
+Add version number to home screen.
