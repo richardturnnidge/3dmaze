@@ -11,6 +11,14 @@ No timers or energy running out, just find the way out.
 
 No, there is not a monster!
 
+
+Download the binary and copy to the root level of your SD card (or a folder of your choice). 
+
+Load the binary, then run it.
+
+For recent versiosn of MOS, simply type the name of the binary (without the .bin) and hit enter.
+
+
 ![](./Screenshot%202024-08-30%20at%2018.05.41.png)
 ![](./Screenshot%202024-08-30%20at%2018.06.13.png)
 
